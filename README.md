@@ -8,7 +8,7 @@ The project uses regression algorithms trained on the Boston Housing dataset and
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** *Add your deployed Streamlit URL here*
+🔗 **Streamlit App:** https://boston-house-price-prediction-jdwrorcbea8xluxmhkco7u.streamlit.app/
 
 ---
 
